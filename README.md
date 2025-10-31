@@ -1,4 +1,4 @@
-# 🌐 ROS Tech Team  
+# 🌐 ROS Tech   
 
 Welcome to **ROS Tech**, a tech-driven company building smart platforms for education, business, and AI innovation.  
 
